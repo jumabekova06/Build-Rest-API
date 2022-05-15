@@ -1,11 +1,10 @@
-## Код из материала по загрузке файлов из DRF
+## Код из книги "Building APIs with Django and Django Rest Framework"
 
 ## Настройка перед запуском
 
 Первое, что нужно сделать, это клонировать репозиторий:
 ```sh
-$ git clone https://github.com/jumabekova06/multiply-file-upload
-
+$ git clone https://github.com/jumabekova06/Build-Rest-API
 
 ```
 
@@ -26,6 +25,5 @@ $ source venv/bin/activate
 
 (venv)$ python manage.py runserver
 ```
-навигация для API `http://127.0.0.1:8000/`.
 
 
